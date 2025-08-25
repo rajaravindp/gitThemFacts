@@ -42,4 +42,4 @@ This system uses a pipeline of specialized AI agents to methodically check a cla
     ```
 
 ### Workflow
-![Fact-checking workflow diagram](./assets/workflow.png)
+![Fact-checking workflow diagram](/workflow.png)
