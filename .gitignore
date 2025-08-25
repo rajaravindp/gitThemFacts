@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# env vars
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Workflow files
+workflow_files/
